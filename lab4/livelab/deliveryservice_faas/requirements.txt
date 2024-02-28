@@ -1,7 +1,6 @@
 flask
+pandas
+numpy
 sqlalchemy
-# connexion
-pathlib
-connexion[swagger-ui]
 sqlalchemy-utils
 sqlalchemy-bigquery
